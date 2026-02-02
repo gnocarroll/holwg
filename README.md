@@ -9,7 +9,8 @@ In the future I am thinking of trying to implement one or more of these
 languages.
 
 Put BSL as license if I add code here, but language documents in manuals
-folder were published online by the US government.
+folder were published online by the US government and BSL license has
+nothing to do with them.
 
 `history.pdf` and the Phase I manuals/reference documents were sourced
 from a larger PDF which contains the Phase I references + different
